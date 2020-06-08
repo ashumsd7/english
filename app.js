@@ -8,7 +8,7 @@ new Vue({
     },
     methods: {
         nounClicked(){
-            alert("a")
+            document.location.href='https://englishnoun.netlify.app/';
         },
       
     },
